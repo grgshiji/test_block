@@ -1,0 +1,16 @@
+{
+  "name": "test_block",
+  "type": "package",
+  "blockId": "NdkYFxWubikM1jiEMGsN9",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_test_block"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
