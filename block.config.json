@@ -1,0 +1,16 @@
+{
+  "name": "test_block",
+  "type": "package",
+  "blockId": "NdkYFxWubikM1jiEMGsN9",
+  "source": {
+    "https": "https://github.com/grgshiji/test_block.git",
+    "ssh": "git@github.com:grgshiji/test_block.git",
+    "branch": "block_test_block"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
